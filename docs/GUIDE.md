@@ -310,7 +310,7 @@ Open **Style** to change how your whole site looks.
 - **Download** a theme as a `.zip` to keep it or share it.
 - **Add a theme (.zip):** upload a theme someone made for you. Every file is checked first, and themes can only contain styles, fonts and images.
 
-**Get more themes** (below Your themes): six official themes made for Teeny: **Bio** (link in bio), **Docs** (documentation, with a sidebar menu), **Launch** (landing pages), **Studio** (portfolios), **Paper** (editorial, pairs with News) and **Soft** (cafés and small shops). Click **Install**, then pick it under **Theme**. They download from teenycms.github.io and are checked like any upload. You can also download them from the [themes and plugins page](https://teenycms.github.io/extras/) and upload the .zip yourself. Each theme shows its version beside its name. When a newer version of an official theme is out, a notice appears at the top of the Style page: click **Update** (your colours and fonts for that theme are kept).
+**Get more themes** (below Your themes): six official themes made for Teeny: **Bio** (link in bio), **Docs** (documentation, with a sidebar menu), **Launch** (landing pages), **Studio** (portfolios), **Paper** (editorial, pairs with News) and **Bistro** (cafés and restaurants). Click **Install**, then pick it under **Theme**. They download from teenycms.github.io and are checked like any upload. You can also download them from the [themes and plugins page](https://teenycms.github.io/extras/) and upload the .zip yourself. Each theme shows its version beside its name. When a newer version of an official theme is out, a notice appears at the top of the Style page: click **Update** (your colours and fonts for that theme are kept).
 
 ---
 
